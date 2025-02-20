@@ -16,7 +16,7 @@ public class Main extends EngineFrame {
     private Camera2D camera;
     
     public Main() {
-        super ( 800, 800, "Top-Down Racing", 30, false );
+        super ( 800, 800, "Top-Down Racing", 60, false );
     }
     
     @Override

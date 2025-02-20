@@ -12,7 +12,7 @@ import br.com.davidbuzatto.jsge.math.Vector2;
 public class Car {
     
     private static final double ANGLE_SPEED = 100;
-    private static final double MAX_SPEED = 600;
+    private static final double MAX_SPEED = 800;
     private static final double MOVE_ACCL = 600;
     
     private Vector2 pos;
